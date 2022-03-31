@@ -1,0 +1,19 @@
+/* .container {
+	background: black;
+	display: inline-block;
+	border: 1px solid black;
+} */
+
+/* .grid {
+	display: grid;
+	grid-template-columns: repeat(3, 80px);
+	grid-template-rows: repeat(3, 80px);
+	grid-gap: 1px;
+} */
+
+/* .cell {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	background: white;
+} */
